@@ -1,6 +1,6 @@
 <p align="center" width="300">
   <img align="center" width="100" src="ssp_icon.png" />
-  <h3 align="center">Hi there! Im <a href="https://taniaysergio.sobricius.cloud-ip.cc/" target="_blank">Sergio Sobrido</a> 👋 </h3>  
+  <h3 align="center">Hi there! Im <a href="https://sites.google.com/view/chipit" target="_blank">Sergio Sobrido</a> 👋 </h3>  
 </p>
 
 [![Profile views](https://komarev.com/ghpvc/?username=sobricius&style=flat-square)](https://github.com/luisllamasbinaburo)
