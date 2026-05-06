@@ -1,15 +1,15 @@
 <p align="center" width="300">
   <img align="center" width="100" src="assets/lll-icon.png" />
-  <h3 align="center">Hi there! Im <a href="https://www.luisllamas.es" target="_blank">Sergio Sobrido</a> 👋 </h3>  
+  <h3 align="center">Hi there! Im <a href="https://taniaysergio.sobricius.cloud-ip.cc/" target="_blank">Sergio Sobrido</a> 👋 </h3>  
 </p>
 
-[![Profile views](https://komarev.com/ghpvc/?username=luisllamasbinaburo&style=flat-square)](https://github.com/luisllamasbinaburo)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/luisllamasbinaburo)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.luisllamas.es)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/luisllamas)
-[![YouTube Badge](https://img.shields.io/badge/-YouTube-E60101?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/c/luisllamases)
-[![Twitch Badge](https://img.shields.io/badge/-Twitch-5C3C96?style=flat-square&logo=Twitch&logoColor=white)](https://www.twitch.tv/luisllamas_es)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://www.luisllamas.es/discord)
+[![Profile views](https://komarev.com/ghpvc/?username=sobricius&style=flat-square)](https://github.com/luisllamasbinaburo)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)]()
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/sobricius)
+[![YouTube Badge](https://img.shields.io/badge/-YouTube-E60101?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/c/sobricius)
+[![Twitch Badge](https://img.shields.io/badge/-Twitch-5C3C96?style=flat-square&logo=Twitch&logoColor=white)](https://www.twitch.tv/mxm_sobricius)
+
 
 
 
@@ -21,7 +21,7 @@
 - 👨‍💻 Soy Ingeniero industrial, y trabajo como desarrollador e IT Proyect manager, IoT e Industria 4.0
 - 🎓 También soy divulgador y creador de contenido sobre desarrollo, microcontroladores y electrónica
 - ⭐ Mis lenguajes de programación favoritos son C#, C++, JS
-- ❤️ Mi web www.luisllamas.es tiene tutoriales sobre Arduino, electrónica, programación, impresión 3D, diseño de PCBs. 
+- ❤️ Mi especialidad son el desarrollo con Arduino, electrónica, programación, impresión 3D, diseño de PCBs. 
 
 </br>
 </br>
@@ -29,8 +29,8 @@
 **Mis estadísticas de GitHub**
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisllamasbinaburo&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisllamasbinaburo&show_icons=true&hide_border=true&layout=compact&langs_count=8&hide=javascript"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sobricius&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sobricius&show_icons=true&hide_border=true&layout=compact&langs_count=8&hide=javascript"/>
 </p>
 
 </br>
