@@ -1,5 +1,5 @@
 <p align="center" width="300">
-  <img align="center" width="100" src="ChatGPT Image May 6, 2026, 11_38_23 AM.jpg" />
+  <img align="center" width="100" src="ssp_icon.png" />
   <h3 align="center">Hi there! Im <a href="https://taniaysergio.sobricius.cloud-ip.cc/" target="_blank">Sergio Sobrido</a> 👋 </h3>  
 </p>
 
