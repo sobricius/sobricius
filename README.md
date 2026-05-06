@@ -1,5 +1,5 @@
 <p align="center" width="300">
-  <img align="center" width="100" src="assets/lll-icon.png" />
+  <img align="center" width="100" src="ChatGPT Image May 6, 2026, 11_38_23 AM.jpg" />
   <h3 align="center">Hi there! Im <a href="https://taniaysergio.sobricius.cloud-ip.cc/" target="_blank">Sergio Sobrido</a> 👋 </h3>  
 </p>
 
@@ -24,16 +24,7 @@
 - ❤️ Mi especialidad son el desarrollo con Arduino, electrónica, programación, impresión 3D, diseño de PCBs. 
 
 </br>
-</br>
 
-**Mis estadísticas de GitHub**
-
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sobricius&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sobricius&show_icons=true&hide_border=true&layout=compact&langs_count=8&hide=javascript"/>
-</p>
-
-</br>
 
 **Mis tecnologías**
 
