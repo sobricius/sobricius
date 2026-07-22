@@ -1,5 +1,5 @@
 <p align="center" width="300">
-  <img align="center" width="100" src="ssp_icon.png" />
+  <img align="center" width="100" src="sobricius_logo.png" />
   <h3 align="center">Hi there! Im <a href="https://sites.google.com/view/chipit" target="_blank">Sergio Sobrido</a> 👋 </h3>  
 </p>
 
