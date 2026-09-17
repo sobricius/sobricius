@@ -16,7 +16,9 @@
 
 **Acerca de mí**
 
+Developer. Systems thinker. Builder. Miles, not lanes.
 
+0xFF - all bits set.
 </br>
 
 
