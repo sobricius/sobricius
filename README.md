@@ -8,7 +8,6 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)]()
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/sobricius)
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-E60101?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/c/sobricius)
-[![Twitch Badge](https://img.shields.io/badge/-Twitch-5C3C96?style=flat-square&logo=Twitch&logoColor=white)](https://www.twitch.tv/mxm_sobricius)
 
 
 
