@@ -3,9 +3,9 @@
   <h3 align="center">Hi there! Im <a href="https://sites.google.com/view/chipit" target="_blank">sobricius0xFF</a>  </h3>  
 </p>
 
-[![Profile views](https://komarev.com/ghpvc/?username=sobricius&style=flat-square)](https://github.com/luisllamasbinaburo)
+[![Profile views](https://komarev.com/ghpvc/?username=sobricius&style=flat-square)]([https://github.com/sobricius)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)]()
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://cv.sobricius.cloud-ip.cc/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/sobricius)
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-E60101?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/c/sobricius)
 
