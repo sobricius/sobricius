@@ -16,7 +16,10 @@
 
 **Acerca de mí**
 
-Developer. Systems thinker. Builder. Miles, not lanes.
+
+Hi, I'm Sergio. I'm a developer passionate about building things that matter.
+
+I work with systems, code, and ideas. I believe in simplicity, efficiency, and making things that last.
 
 0xFF - all bits set.
 </br>
